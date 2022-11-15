@@ -4,15 +4,6 @@
 # Summary
 ### :walking:초보개발자
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanbyeol00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00)](https://github.com/hanbyeol00/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hanbyeol00)](https://github.com/hanbyeol00/github-readme-stats)
 [![trophy](https://github-readme-stats.vercel.app/api?username=hanbyeol00)](https://github.com/hanbyeol00/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbyeol00&theme=dark&layout=compact)]
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanbyeol00&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
