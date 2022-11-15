@@ -9,3 +9,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00)](https://github.com/hanbyeol00/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=hanbyeol00)](https://github.com/hanbyeol00/github-readme-stats)
 [![trophy](https://github-readme-stats.vercel.app/api?username=hanbyeol00)](https://github.com/hanbyeol00/github-readme-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbyeol00&theme=dark&layout=compact)]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hanbyeol00&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
