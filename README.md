@@ -4,8 +4,8 @@
 # Summary
 ### :walking:초보개발자
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbyeol00&theme=dark&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbyeol00&theme=dark&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanbyeol00&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=hanbyeol00&theme=onedark&row=1)
