@@ -5,7 +5,6 @@
 ### :walking:초보개발자
 
 ## skills
-https://img.shields.io/badge/github-GIVEME--STAR-red
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)
 
