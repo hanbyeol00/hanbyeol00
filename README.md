@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Welcome%20To%20-nl-hanbyeol&fontSize=80&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient=300&section=header&text=Welcome%20To%20-nl-hanbyeol&fontSize=80&animation=fadeIn)
 
 
 
