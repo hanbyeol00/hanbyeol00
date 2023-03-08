@@ -5,7 +5,6 @@
 ### :walking:초보개발자
 
 ## skills
-(https://img.shields.io/github/languages/count/beygee/survive)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbyeol00&theme=dark&layout=compact)
