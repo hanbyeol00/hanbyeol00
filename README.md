@@ -4,6 +4,8 @@
 # Summary
 ### :walking:초보개발자
 
+##skills
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanbyeol00&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanbyeol00&theme=dark&layout=compact)
